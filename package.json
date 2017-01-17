@@ -1,0 +1,22 @@
+{
+  "name": "xchart",
+  "version": "0.0.1",
+  "description": "chart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XieShangxu/xchart.git"
+  },
+  "keywords": [
+    "chart"
+  ],
+  "author": "DanielXie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XieShangxu/xchart/issues"
+  },
+  "homepage": "https://github.com/XieShangxu/xchart#readme"
+}
